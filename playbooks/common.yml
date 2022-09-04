@@ -25,6 +25,5 @@
         name: wireshark
         state: latest
 
-
     - name: testing
       shell: echo hello > ansible.txt
